@@ -1,0 +1,2 @@
+# SLM
+small langauge model
